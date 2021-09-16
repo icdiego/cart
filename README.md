@@ -12,6 +12,8 @@ Just open the index.html
 
 ### **Video**
 
+https://youtu.be/QECyMe6CXiI
+
 ### **Roadmap of future improvements:**
 
 Better CSS style
